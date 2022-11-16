@@ -4,3 +4,4 @@ Author:Sumitra
 2.Chat screen code
 3.Last seen code
 4.Attachments(Image ,Audio,Video) code
+Hiding the last seen
